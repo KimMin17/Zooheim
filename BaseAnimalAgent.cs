@@ -24,7 +24,7 @@ public class BaseAnimalAgent : Agent {
     protected float AnimalEnergy;                   //현재 에너지
     protected float AnimalEnergyLimit;              //최대 에너지
 
-    protected float AnimalAttackPower;                   //공격력
+    protected float AnimalAttackPower;              //공격력
     
     protected float AnimalEnoughHP;                 //동물이 안전한 상태를 정하기 위한 지표(번식 등을 할 때 참고할 수 있도록 추가함)
     protected float AnimalEnoughEnergy;             //동물이 배부른 상태를 정하기 위한 지표(번식 등을 할 때 참고할 수 있도록 추가함)
